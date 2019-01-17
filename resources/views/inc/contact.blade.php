@@ -1,5 +1,5 @@
 
-        <div class="card container contact-form">
+        <div class="card container contact-form mt-0">
                 <div class="contact-image">
                     <img src="https://image.ibb.co/kUagtU/rocket_contact.png" alt="rocket_contact"/>
                 </div>

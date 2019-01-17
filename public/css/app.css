@@ -10534,12 +10534,28 @@ button:focus {
   margin-top: 97px;
 }
 
-.carousel-caption {
-  margin-top: -200px;
-}
-
 .carousel-item img {
   height: 70vh;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 33%;
+}
+
+.jumbotorn {
+  height: 20vh;
+}
+
+.caption-box {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 2vw 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.carousel-caption h1 {
+  font-size: 4vw;
 }
 
 .hero {
